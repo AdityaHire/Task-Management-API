@@ -70,6 +70,3 @@ GET /api/tasks/?search=documentation
 GET /api/tasks/?ordering=-created_at
 ```
 
-## License
-
-MIT License
